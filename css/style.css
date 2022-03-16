@@ -1,0 +1,14 @@
+#box{
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 25px;
+}
+
+#victory{
+    text-align: center;
+    color: green;
+}
